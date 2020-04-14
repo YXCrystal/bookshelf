@@ -1,0 +1,62 @@
+
+.banner {
+    color: white;
+    background-color: #7b9ec9;
+    height: 5rem;
+    text-align: center;
+}
+
+.primary {
+    padding-top: 1rem;
+}
+
+.library {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin-top: 2rem;
+    text-align: center;
+    border-radius: 0.5rem;
+}
+
+.btn_library {
+    background-color :#7b9ec9;
+    color: white;
+    padding: 0.5rem;
+    display: inline;
+    margin: 0.3rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+.btn_library:hover {
+    background-color: #486b96;
+}
+
+
+form {
+    color: #7b9ec9;
+    width: 25%;
+    margin: 0 auto;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+
+.new_book {
+    color: #7b9ec9;
+    text-align: center;
+    border-bottom: 1px solid #7b9ec9;
+    margin-bottom: 1rem;
+}
+
+.complete {
+    opacity: 0.5;
+}
+
+#submit {
+    width: 100%;
+}
